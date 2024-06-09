@@ -1,0 +1,12 @@
+{
+  "name": "variable-daytime-speed",
+  "version": "0.2.0",
+  "title": "Variable daytime speed",
+  "author": "Subjectd_31415",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "informatron"
+  ],
+  "description": "Daytime progresses at a random speed"
+}
